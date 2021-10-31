@@ -1,10 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 1, Errors: 0, Skipped: 1, Time elapsed: 4.327 s <<< FAILURE! - in TestSuite
-com.suacelab.ecommerce.SortFunctionality.lunchBrowser  Time elapsed: 0.577 s  <<< FAILURE!
-org.testng.TestNGException: 
-
-Can inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated lunchBrowser.
-For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 121.593 s - in TestSuite
