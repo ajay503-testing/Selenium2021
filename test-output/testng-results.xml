@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="64944" started-at="2021-10-30T14:47:27Z" finished-at="2021-10-30T14:48:32Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="64944" started-at="2021-10-30T14:47:27Z" finished-at="2021-10-30T14:48:32Z">
+      <class name="com.suacelab.ecommerce.SortFunctionality">
+        <test-method status="PASS" signature="lunchBrowser(java.lang.String)[pri:0, instance:com.suacelab.ecommerce.SortFunctionality@66d33a]" name="lunchBrowser" is-config="true" duration-ms="60471" started-at="2021-10-30T20:17:27Z" finished-at="2021-10-30T20:18:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchBrowser -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.suacelab.ecommerce.SortFunctionality@66d33a]" name="loginTest" duration-ms="4456" started-at="2021-10-30T20:18:28Z" finished-at="2021-10-30T20:18:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.suacelab.ecommerce.SortFunctionality -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
